@@ -1,0 +1,1 @@
+// this handle with all pic query and listname get task 
